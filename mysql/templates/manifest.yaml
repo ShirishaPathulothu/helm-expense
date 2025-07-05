@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name:  mysql
-        image: shirisha02/mysql:{{ Values.deployment.imageVersion }}
+        image: shirisha02/mysql:{{ .Values.deployment.imageVersion }}
 ---
 apiVersion: v1
 kind: Service
