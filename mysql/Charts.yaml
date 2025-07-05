@@ -1,4 +1,4 @@
 apiVersion: v1
-name: expense
+name: mysql
 version: 0.0.1
 description: This is the helm chart of expense 
