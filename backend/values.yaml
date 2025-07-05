@@ -1,0 +1,4 @@
+deployment:
+  replicas: 4
+hpa:
+  cpuUtilization: 20  
