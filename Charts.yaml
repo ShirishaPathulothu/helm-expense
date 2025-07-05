@@ -1,0 +1,4 @@
+apiVersion: v1
+name: expense
+version: v1
+description: This is the helm chart of expense 
